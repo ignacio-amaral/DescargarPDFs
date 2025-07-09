@@ -1,0 +1,15 @@
+{
+    "BASE_URL": "",
+    "BASE_URL_LISTADOS": "",
+    "USER": "",
+    "PASSWORD": "",
+    "RUT_EMPRESA": "",
+    "CODIGO_COMERCIO": "",
+    "CODIGO_TERMINAL": "",
+    "TIPO_CFE": 0,
+    "PAGE_SIZE": 1000,
+    "CARPETA_INSTALACION" : "",
+    "CARPETA_LOCAL": "",
+    "CARPETA_DESCARGADOS": "",
+    "CARPETA_LOGS": ""
+  }
